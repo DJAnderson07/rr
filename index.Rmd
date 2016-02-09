@@ -38,7 +38,7 @@ strong {
 * **Replicability** is the gold standard for research. Ideally, most research
   would be verified through replication. 
 * Reproducibility represents a minimal standard, which itself can aid
-  replication (tremendously), by conducting and documenting the research sufficiently that **an independent research could reproduce all the results from a study**, provided the data were available
+  replication (tremendously), by conducting and documenting the research sufficiently that **an independent research team could reproduce all the results from a study**, provided the data were available
 
 ----
 ## Why should we care?
